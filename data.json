@@ -1,0 +1,215 @@
+{
+  "items": [
+    {
+      "cate1": "공간조명",
+      "brand": "FLEM",
+      "pname": "플램 Underbed 스트립형 시간조절가능 LED센서등 (FSL410)",
+      "price": "27,000",
+      "point": "27",
+      "image": "./img/cata_a_02.jpg"
+    },
+    {
+      "cate1": "장/단스텐드",
+      "brand": "LALUZ",
+      "pname": "라루즈 이클 단스탠드",
+      "price": "64,900",
+      "point": "64",
+      "image": "./img/cata_f_04.jpg"
+    },
+    {
+      "cate1": "레일조명",
+      "brand": "HUVITLED",
+      "pname": "모나셀 90파이 레일등 COB LED36W",
+      "price": "73,500",
+      "point": "73",
+      "image": "./img/cata_d_02.jpg"
+    },
+    {
+      "cate1": "펜던트/포인트조명",
+      "brand": "HITLIGHTING",
+      "pname": "[리퍼브] 스테인드 글라스 1등 펜던트 조명 블루웨이브",
+      "price": "71,500",
+      "point": "70",
+      "image": "./img/cata_c_01.jpg"
+    },
+    {
+      "cate1": "공간조명",
+      "brand": "FLEM",
+      "pname": "플램 센라이트 Magnetic Block 무선 동작감지 LED센서라이트(FSL104)",
+      "price": "19,800",
+      "point": "20",
+      "image": "./img/cata_a_03.jpg"
+    },
+
+    {
+      "cate1": "LED평판등",
+      "brand": "VITTZ",
+      "pname": "LED 아트솔 람스 거실등120W",
+      "price": "197,000",
+      "point": "197",
+      "image": "./img/cata_b_01.jpg"
+    },
+
+    {
+      "cate1": "LED평판등",
+      "brand": "KKUMI LIGHTING CO.,LTD",
+      "pname": "LED 조명 리폼모듈 오스람칩 포밍램프 15W 25W 30W 주광 주백 전구색",
+      "price": "1,900",
+      "point": "2",
+      "image": "./img/cata_b_03.jpg"
+    },
+    {
+      "cate1": "공간조명",
+      "brand": "purplestory",
+      "pname": "무라노 펜던트 Ø450 GU10 ( 커피브라운 )",
+      "price": "202,000",
+      "point": "200",
+      "image": "./img/cata_a_04.jpg"
+    },
+
+    {
+      "cate1": "펜던트/포인트조명",
+      "brand": "SWEETBRIDGE",
+      "pname": "미니미 레트로 스탠드 조명 캠핑등 수유등 무드등 8color",
+      "price": "3,800",
+      "point": "4",
+      "image": "./img/cata_c_02.jpg"
+    },
+    {
+      "cate1": "레일조명",
+      "brand": "HUVITLED",
+      "pname": "팝스퀘어 레일등 V형 L85 GU10소켓",
+      "price": "48,200",
+      "point": "48",
+      "image": "./img/cata_d_04.jpg"
+    },
+    {
+      "cate1": "정원/원예관리/야외",
+      "brand": "THEEIGHT",
+      "pname": "LED 태양광 육각 정원등 1+1",
+      "price": "11,700",
+      "point": "10",
+      "image": "./img/cata_e_02.jpg"
+    },
+    {
+      "cate1": "공간조명",
+      "brand": "HANSSEM",
+      "pname": "[한샘조명]스피아노 샘스틸 제도 집게형 스탠드_화이트 (택1)",
+      "price": "40,000",
+      "point": "40",
+      "image": "./img/cata_a_05.jpg"
+    },
+    {
+      "cate1": "정원/원예관리/야외",
+      "brand": "THEEIGHT",
+      "pname": "LED 태양광 야외 정원등 4개 세트",
+      "price": "18,200",
+      "point": "18",
+      "image": "./img/cata_e_01.jpg"
+    },
+    {
+      "cate1": "펜던트/포인트조명",
+      "brand": "HUMOOHOUSE",
+      "pname": "pink-white hanging lamp bell",
+      "price": "35,800",
+      "point": "35",
+      "image": "./img/cata_c_03.jpg"
+    },
+    {
+      "cate1": "공간조명",
+      "brand": "HITLIGHTING",
+      "pname": "[오늘출발] 파스텔 마카롱 5등 샹들리에",
+      "price": "176,400",
+      "point": "176",
+      "image": "./img/cata_a_07.jpg"
+    },
+    {
+      "cate1": "LED평판등",
+      "brand": "POLADORE",
+      "pname": "무선 충전 무드등 led 각도 조절 테이블 스탠드 독서등 밝기 조정",
+      "price": "27,000",
+      "point": "27",
+      "image": "./img/cata_b_02.jpg"
+    },
+    {
+      "cate1": "레일조명",
+      "brand": "HUVITLED",
+      "pname": "LD 마그네틱 레일 1M 2M 3M 직부형 매입형 펜던트형",
+      "price": "38,800",
+      "point": "38",
+      "image": "./img/cata_d_01.jpg"
+    },
+    {
+      "cate1": "공간조명",
+      "brand": "VITTZ",
+      "pname": "크리스틴 9등 인테리어조명",
+      "price": "267,600",
+      "point": "267",
+      "image": "./img/cata_a_06.jpg"
+    },
+    {
+      "cate1": "장/단스텐드",
+      "brand": "BANANABD",
+      "pname": "바나코 푸딩 무드 라이트",
+      "price": "45,900",
+      "point": "45",
+      "image": "./img/cata_f_01.jpg"
+    },
+    {
+      "cate1": "레일조명",
+      "brand": "HUVITLED",
+      "pname": "LONG골드 실린더 레일등 COB LED 20W 75파이 L170",
+      "price": "63,500",
+      "point": "63",
+      "image": "./img/cata_d_03.jpg"
+    },
+    {
+      "cate1": "장/단스텐드",
+      "brand": "BANANABD",
+      "pname": "바나코 미드센추리 팝 컬러 무드등",
+      "price": "29,900",
+      "point": "29",
+      "image": "./img/cata_f_02.jpg"
+    },
+    {
+      "cate1": "정원/원예관리/야외",
+      "brand": "THEEIGHT",
+      "pname": "LED 프라임 태양광 정원등 6개 SET",
+      "price": "51,900",
+      "point": "50",
+      "image": "./img/cata_e_03.jpg"
+    },
+    {
+      "cate1": "공간조명",
+      "brand": "USPIECE",
+      "pname": "브뤼네 1등 펜던트 조명",
+      "price": "59,000",
+      "point": "59",
+      "image": "./img/cata_a_01.jpg"
+    },
+    {
+      "cate1": "장/단스텐드",
+      "brand": "ALLLUMI",
+      "pname": "라피네 장스탠드",
+      "price": "81,900",
+      "point": "81",
+      "image": "./img/cata_f_03.jpg"
+    },
+    {
+      "cate1": "정원/원예관리/야외",
+      "brand": "THEEIGHT",
+      "pname": "태양광 센서등 태양열 LED 조명 야외등 벽부등",
+      "price": "13,600",
+      "point": "13",
+      "image": "./img/cata_e_04.jpg"
+    },
+    {
+      "cate1": "정원/원예관리/야외",
+      "brand": "HUVITLED",
+      "pname": "실외용 수목용 TN-1 투사등 E26",
+      "price": "37,800",
+      "point": "37",
+      "image": "./img/cata_e_05.jpg"
+    }
+  ]
+}
